@@ -1,0 +1,304 @@
+@media (max-width: 1200px) {
+    .container {
+        max-width: 945px;
+    }
+    #second-slider .slider-second .item .col1 .button {
+        width: 100%;
+        font-size: 16px;
+    }
+    #second-slider .slider-second .item {
+        padding: 15px 24px 40px 15px;
+    }
+    #second-slider .slider-second .item .text {
+        margin-left: 25px;
+    }
+    #achievements .box.first, #achievements .box.third {
+        padding-left: 25px;
+    }
+    #achievements .box h3 {
+        font-size: 30px;
+    }
+    #achievements .box h4 {
+        font-size: 35px;
+    }
+    #achievements .box p {
+        font-size: 20px;
+    }
+    #achievements .box h2 {
+        font-size: 45px;
+    }
+    #achievements .box.last {
+        padding-right: 15px;
+    }
+    #achievements .box h2.last {
+        font-size: 40px;
+    }
+    #achievements .box h2.last span {
+        font-size: 20px;
+    }
+    #contacts .box .number p {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    #contacts .box .number {
+        margin-bottom: 20px;
+    }
+    #contacts .box .text p {
+        font-size: 20px;
+    }
+    #contacts .box .text h3 {
+        font-size: 20px;
+    }
+    #contacts .specialists .box {
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    #contacts .specialists .box .img {
+        width: 100%;
+        height: 203px;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    #contacts .specialists .box .info .button {
+        margin-top: 35px;
+    }
+}
+@media (max-width: 991px) {
+    #second-slider .slider-second .item .text {
+        margin-left: 45px;
+    }
+
+    #consultation .box h2 {
+        color: #34bddd;
+        font-size: 30px;
+    }
+
+    #consultation .box p {
+        font-size: 16px;
+    }
+}
+@media (max-width: 767px) {
+    #second-slider .slider-second .item {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    #second-slider .slider-second .item .col1 {
+        width: 70%;
+        margin-bottom: 20px;
+    }
+    #second-slider .slider-second .item .col2 {
+        width: 100%;
+    }
+    #second-slider .slider-second .item .text {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .slick-slider .slick-dots {
+        position: absolute;
+        bottom: 17px;
+        right: 0;
+    }
+    #achievements .box h2 {
+        font-size: 50px;
+    }
+    #achievements .box p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+    #contacts .big {
+        height: auto;
+        margin-bottom: 20px;
+    }
+    #contacts .row {
+        justify-content: center;
+    }
+    #contacts .specialists .box .img {
+        height: 170px;
+        margin-bottom: 15px;
+    }
+    #contacts .specialists .box .info h4 {
+        font-weight: bold;
+        font-size: 16px;
+    }
+    #contacts .specialists .box .info .button {
+        margin-top: 15px;
+    }
+    #contacts .specialists .box .info .button {
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    #contacts .specialists .box {
+        margin-bottom: 30px;
+    }
+    .container {
+        padding: 0 40px;
+    }
+}
+@media (max-width: 600px) {
+    #first-slider .item {
+        width: 100%;
+        height: 280px;
+        padding: 20px 0 0 20px;
+    }
+    #consultation .box h2 {
+        color: #34bddd;
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    #contacts .title {
+        text-align: center;
+    }
+    #contacts .specialists .box .img {
+        height: 170px;
+        width: 60%;
+    }
+    #second-slider .slider-second .item .text {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    #second-slider .slider-second .item .text p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    #second-slider .slider-second .item .col1 {
+        margin-bottom: 15px;
+    }
+    #electronic .el-reg .text p {
+        font-size: 15px;
+        height: 33px;
+        padding: 5px 16px;
+    }
+    #electronic .el-reg .description {
+        padding: 0 35px 25px 38px;
+        margin-top: 5px;
+        font-size: 15px;
+    }
+}
+@media (max-width: 480px) {
+
+    #first-slider .item {
+        width: 100%;
+        height: 200px;
+        padding: 10px 0 0 10px;
+    }
+    #first-slider .item .box h2 {
+        font-size: 16px;
+        width: 95%;
+        line-height: 21px;
+    }
+    #first-slider .item .box p {
+        font-size: 15px;
+        line-height: 20px;
+        text-transform: inherit;
+    }
+    #first-slider .item .box {
+        padding: 15px 8px 20px 15px;
+        width: 100%;
+        height: auto;
+    }
+    #first-slider .item .button {
+        font-size: 14px;
+    }
+    .container {
+        padding: 0 15px;
+    }
+    #second-slider .slider-second .item .col1 {
+        width: 100%;
+        margin-bottom: 0;
+    }
+    #second-slider .slider-second .item .col1 .img {
+        display: flex;
+        flex-direction: column;
+
+    }
+    #second-slider .slider-second .item .col1 .img img {
+        width: 255px;
+        height: 200px;
+    }
+    #second-slider .slider-second .item .col1 .button {
+        height: 45px;
+        font-size: 15px;
+        width: 255px;
+    }
+    #achievements .box h2.last {
+        font-size: 35px;
+    }
+    #achievements .box h2 {
+        font-size: 35px;
+    }
+    #achievements .box h2 span {
+        font-size: 25px;
+    }
+    #achievements .box h4 {
+        font-size: 30px;
+    }
+    #achievements .box h3 {
+        font-size: 25px;
+    }
+    #achievements .box.first, #achievements .box.third {
+        padding-left: 20px;
+    }
+    #achievements .box {
+        height: 160px;
+    }
+    #contacts .big {
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    #contacts .box .text h3 {
+        font-size: 18px;
+    }
+    #contacts .box .text p {
+        font-size: 15px;
+    }
+    #contacts .box .number {
+        margin-bottom: 15px;
+    }
+    #contacts .box .number img {
+        margin-right: 8px;
+        width: 30px;
+        height: 30px;
+    }
+    #contacts .box .number p {
+        font-size: 18px;
+    }
+    #contacts .title {
+        color: #34bddd;
+        font-size: 23px;
+    }
+    #consultation .box h2 {
+        color: #34bddd;
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    #consultation .bottom img {
+        margin-right: 10px;
+        width: 40px;
+        height: 41px;
+    }
+    #consultation .box p {
+        font-size: 14px;
+    }
+    #electronic .el-reg .img {
+        background: #ea4e28;
+        width: 35px;
+        height: 36px;
+        margin-top: -3px;
+    }
+    #electronic .el-reg .img img {
+        width: 25px;
+    }
+    #electronic .el-reg .text p {
+        font-size: 14px;
+        height: 29px;
+        padding: 5px 10px;
+    }
+    #electronic .el-reg .description {
+        padding: 10px;
+        margin-top: 0;
+        font-size: 15px;
+    }
+
+}
